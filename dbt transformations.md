@@ -38,4 +38,11 @@ Activate dbt environment below
 
 <img width="478" height="125" alt="image" src="https://github.com/user-attachments/assets/0705e40b-c04c-473e-9a03-566013742d3b" />
 
+<img width="836" height="410" alt="image" src="https://github.com/user-attachments/assets/693f5ce9-49c8-4235-8103-846faad87be5" />
+
+<img width="553" height="278" alt="image" src="https://github.com/user-attachments/assets/c21f7cf2-3d57-4ea9-9acf-f79fba4dcb78" />
+
+
+
+
 
