@@ -42,7 +42,25 @@ Activate dbt environment below
 
 <img width="553" height="278" alt="image" src="https://github.com/user-attachments/assets/c21f7cf2-3d57-4ea9-9acf-f79fba4dcb78" />
 
+## DBT folder is empty in windows drive, with below query, project will be created
 
+<img width="500" height="194" alt="image" src="https://github.com/user-attachments/assets/e203ca04-5cec-4bc3-9ac6-ad9c5cbd43b4" />
+
+<img width="493" height="245" alt="image" src="https://github.com/user-attachments/assets/f2a12a02-3d09-41ca-a5d4-0d99ee799b72" />
+
+<img width="655" height="293" alt="image" src="https://github.com/user-attachments/assets/a7dc7646-815d-4c97-ae0a-88455370b1d1" />
+
+<img width="532" height="109" alt="image" src="https://github.com/user-attachments/assets/4f61d254-29bb-44e9-b21a-e9952e5f87e1" />
+
+<img width="463" height="227" alt="image" src="https://github.com/user-attachments/assets/f231b9be-8791-4734-960f-9c061fb02172" />
+
+<img width="481" height="250" alt="image" src="https://github.com/user-attachments/assets/40001387-a896-482b-aa28-c7c50d66bef1" />
+
+## WITH correct folder
+
+<img width="512" height="284" alt="image" src="https://github.com/user-attachments/assets/55a45b7a-7da5-4766-9dc2-b4cd60945742" />
+
+<img width="698" height="381" alt="image" src="https://github.com/user-attachments/assets/94ee51c4-d7c6-4b2d-becc-48f225f83bd9" />
 
 
 
