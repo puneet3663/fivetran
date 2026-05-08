@@ -1,6 +1,4 @@
-<img width="962" height="424" alt="image" src="https://github.com/user-attachments/assets/8a15e9f2-3202-463c-ab49-cfc576381e1a" /># fivetran
-
-Support 166 sources as on 1 Jan 2026
+## fivetran Support 166 sources as on 1 Jan 2026
 
 <img width="694" height="349" alt="image" src="https://github.com/user-attachments/assets/0db79334-7bf1-4264-bc94-4629b4691633" />
 
