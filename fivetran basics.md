@@ -38,5 +38,11 @@ Support 166 sources as on 1 Jan 2026
 
 ## FIVETRAN_AUDIT table is created for every fivetran pipeline
 
+<img width="953" height="430" alt="image" src="https://github.com/user-attachments/assets/283c495f-1260-4073-b8ed-c673c182452e" />
+
+<img width="758" height="303" alt="image" src="https://github.com/user-attachments/assets/4e2aeb20-6c23-418d-a844-cd8a9a8fa4a9" />
+
+<img width="584" height="400" alt="image" src="https://github.com/user-attachments/assets/fd2b329e-1476-467a-a762-1952b3c865d6" />
+
 
 
